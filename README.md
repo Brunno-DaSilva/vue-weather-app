@@ -1,6 +1,12 @@
 # vue Weather App
 
-Simple Weather App featuring vue and Open Weather API
+Simple Weather App featuring Vue.JS 3, the Open Weather API, and Surge for deployment!
+
+#### Demo: http://bruno-dasilva-vue-weather-app.surge.sh/
+
+
+---
+ 
 
 ## Project setup
 
